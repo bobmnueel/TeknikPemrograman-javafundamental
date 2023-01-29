@@ -3,7 +3,7 @@
  * NIM      : 221524038
  * Kelas    : D4-1B
  * 
- * Soal5    : BukaTutupJalan
+ * Soal6    : bignumber
  */ 
 
 import java.util.Scanner;
